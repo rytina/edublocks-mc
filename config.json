@@ -1,7 +1,7 @@
 {
     "mode": "python",
     "code": [
-        "music.py"
+        "mc.py"
     ],
     "interpreter": "py"
 }

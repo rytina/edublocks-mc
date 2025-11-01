@@ -1,9 +1,9 @@
 const musicColor = "#1DB954";
 
-Blockly.Blocks['import_music'] = {
+Blockly.Blocks['import_mc'] = {
     init: function() {
       this.appendDummyInput()
-          .appendField("from music import Music");
+          .appendField("from mcpi.minecraft import Minecraft");
       this.setPreviousStatement(true, null);
       this.setNextStatement(true, null);
       this.setColour(musicColor);

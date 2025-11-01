@@ -1,5 +1,5 @@
-Blockly.Python['import_music'] = function(block) {
-    var code = 'from music import Music\n';
+Blockly.Python['import_mc'] = function(block) {
+    var code = 'from mcpi.minecraft import Minecraft\n';
     return code;
 };
 

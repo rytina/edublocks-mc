@@ -1,7 +1,7 @@
 <category name="Music" colour="#1DB954" css-icon="customIcon fas fa-music">
     <label text="Music"></label>
 
-    <block type="import_music"></block>
+    <block type="import_mc"></block>
 
     <block type="music_init"></block>
 
